@@ -8,7 +8,7 @@ settings:
   channelsPerFile: 2000  # Maximum number of channels per file
 
 urls:
-#- http://bt.618453.xyz:80/get.php?username=kamuranaslan@@&password=4548548541@@&type=m3u_plus
+- http://wickediptv.live:80/get.php?username=BSHOP8543986&password=HTF2857419&type=m3u_plus
 #- http://magiz.net:8080/get.php?username=paul&password=paul&type=m3u&output=ts
 #- http://nocable.cc:8080/get.php?username=michellebrath@hotmail.com&password=dmNeFwzj6v&type=m3u_plus
 #- http://op.web24.live:8080/get.php?username=recycle_n24&password=network24_selfrestream&type=m3u_plus
