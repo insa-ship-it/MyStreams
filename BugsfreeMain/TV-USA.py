@@ -257,13 +257,13 @@ class M3UCollector:
 def main():
     # Specific M3U sources (12 sources)
     source_urls = [        
-        "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "https://raw.githubusercontent.com/clseibold/tubi-m3u/refs/heads/main/tubi_playlist_us.m3u",
-        "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "http://watch.omni4263.com:80/get.php?username=yR89Gs6&password=maddie15&type=m3u_plus",
+        "http://watch.omni4263.com:80/get.php?username=rplrdlxh&password=G241fkz1Fn&type=m3u_plus",
+        "",
     ]
 
     # Set check_links=False for super speed, True for accuracy
-    collector = M3UCollector(country="USA", check_links=False)
+    collector = M3UCollector(country="USA", check_links=True)
     collector.process_sources(source_urls)
     
     # Export files
