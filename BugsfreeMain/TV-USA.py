@@ -256,10 +256,11 @@ class M3UCollector:
 
 def main():
     # Specific M3U sources (12 sources)
-    source_urls = [        
-        "http://watch.omni4263.com:80/get.php?username=yR89Gs6&password=maddie15&type=m3u_plus",
-        "http://watch.omni4263.com:80/get.php?username=rplrdlxh&password=G241fkz1Fn&type=m3u_plus",
-        "",
+    source_urls = [
+        "http://cord-cutter.net:8080/get.php?username=7qSXrZ&password=478536&type=m3u_plus",
+        "http://cord-cutter.net:8080/get.php?username=Qd87ahCTAt&password=4ZrXaYuzFV&type=m3u_plus",
+        "http://cord-cutter.net:8080/get.php?username=d7aAvA&password=164223&type=m3u_plus", 
+        "" 
     ]
 
     # Set check_links=False for super speed, True for accuracy
