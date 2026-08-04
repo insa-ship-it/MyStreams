@@ -257,8 +257,8 @@ class M3UCollector:
 def main():
     # Specific M3U sources (12 sources)
     source_urls = [
-        "http://cord-cutter.net:8080/get.php?username=7qSXrZ&password=478536&type=m3u_plus",
-        "http://cord-cutter.net:8080/get.php?username=Qd87ahCTAt&password=4ZrXaYuzFV&type=m3u_plus",
+        "http://domtvs.dyndns.tv:25461/get.php?username=N3SON3XCHANGE@NOW&password=MBNFCuu7ch@D89h6jx22Y&type=m3u_plus",
+        "",
         "http://cord-cutter.net:8080/get.php?username=d7aAvA&password=164223&type=m3u_plus", 
         "" 
     ]
