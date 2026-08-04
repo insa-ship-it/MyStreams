@@ -264,7 +264,7 @@ def main():
     ]
 
     # Set check_links=False for super speed, True for accuracy
-    collector = M3UCollector(country="USA", check_links=True)
+    collector = M3UCollector(country="USA", check_links=False)
     collector.process_sources(source_urls)
     
     # Export files
