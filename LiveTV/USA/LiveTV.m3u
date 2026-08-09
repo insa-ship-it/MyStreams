@@ -11917,7 +11917,7 @@ http://cord-cutter.net:8080/d7aAvA/164223/120798
 http://cord-cutter.net:8080/d7aAvA/164223/120802
 #EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="USA | NEWS | REGIONALS ",NBC: TX AUSTIN KXAN
 http://cord-cutter.net:8080/d7aAvA/164223/120803
-#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="USA | NEWS | REGIONALS ",US NBC (KPRC) Houston (F)
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="USA | NEWS | REGIONALS ",US NBC (KPRC) Houston
 http://cord-cutter.net:8080/d7aAvA/164223/120815
 #EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="USA | NEWS | REGIONALS ",US CBS (KENS) San Antonio
 http://cord-cutter.net:8080/d7aAvA/164223/120816
@@ -131437,74 +131437,70 @@ http://cord-cutter.net:8080/d7aAvA/164223/324260
 http://cord-cutter.net:8080/d7aAvA/164223/324261
 #EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="MLB",MLB | Washington Nationals
 http://cord-cutter.net:8080/d7aAvA/164223/324262
-#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="MLB",MLB 01: New York Mets VS Pittsburgh Pirates (New York Mets Feed ) @ 18:40
-http://cord-cutter.net:8080/d7aAvA/164223/327999
-#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="MLB",MLB 02: New York Mets VS Pittsburgh Pirates (Pittsburgh Pirates Feed ) @ 18:40
-http://cord-cutter.net:8080/d7aAvA/164223/328000
-#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="MLB",MLB 03: Toronto Blue Jays VS Philadelphia Phillies (Philadelphia Phillies Feed ) @ 18:40
-http://cord-cutter.net:8080/d7aAvA/164223/328001
-#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="MLB",MLB 04: Toronto Blue Jays VS Philadelphia Phillies (Toronto Blue Jays Feed ) @ 18:40
-http://cord-cutter.net:8080/d7aAvA/164223/328002
-#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="MLB",MLB 05: Cincinnati Reds VS Washington Nationals (Cincinnati Reds Feed ) @ 18:45
-http://cord-cutter.net:8080/d7aAvA/164223/328003
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="MLB",AK | Anchorage | ABC 13 (KYUR)
+http://cord-cutter.net:8080/d7aAvA/164223/328095
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="MLB",AK | ANCHORAGE | PBS (KAKM)
+http://cord-cutter.net:8080/d7aAvA/164223/328096
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="MLB",AK | CBS ANCHORAGE (KYES)
+http://cord-cutter.net:8080/d7aAvA/164223/328097
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="MLB",AK | FAIRBANKS | ABC (KATN)
+http://cord-cutter.net:8080/d7aAvA/164223/328098
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="MLB",AK | FAIRBANKS | CBS (KXDF)
+http://cord-cutter.net:8080/d7aAvA/164223/328099
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="MLB",MLB 01: Atlanta Braves VS New York Yankees (New York Yankees Feed ) @ 15:05
+http://cord-cutter.net:8080/d7aAvA/164223/328100
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="MLB",MLB 02: Atlanta Braves VS New York Yankees (Atlanta Braves Feed ) @ 15:05
+http://cord-cutter.net:8080/d7aAvA/164223/328101
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="MLB",MLB 03: Athletics VS Boston Red Sox (Athletics Feed ) @ 16:10
+http://cord-cutter.net:8080/d7aAvA/164223/328102
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="MLB",MLB 04: Athletics VS Boston Red Sox (Boston Red Sox Feed ) @ 16:10
+http://cord-cutter.net:8080/d7aAvA/164223/328103
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="MLB",MLB 05: Athletics VS Boston Red Sox (FS1 Feed ) @ 16:10
+http://cord-cutter.net:8080/d7aAvA/164223/328104
 #EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="MLB",MLB 06: Cincinnati Reds VS Colorado Rockies (Rockies.TV Feed ) @ 15:10
-http://cord-cutter.net:8080/d7aAvA/164223/328004
-#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="MLB",MLB 07: Cincinnati Reds VS Washington Nationals (Washington Nationals Feed ) @ 18:45
-http://cord-cutter.net:8080/d7aAvA/164223/328005
-#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="MLB",MLB 08: Cincinnati Reds VS Washington Nationals (Washington Nationals Feed ) @ 18:45
-http://cord-cutter.net:8080/d7aAvA/164223/328006
-#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="MLB",MLB 09: Atlanta Braves VS New York Yankees (New York Yankees Feed ) @ 19:05
-http://cord-cutter.net:8080/d7aAvA/164223/328007
-#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="MLB",MLB 10: Atlanta Braves VS New York Yankees (Atlanta Braves Feed ) @ 19:05
-http://cord-cutter.net:8080/d7aAvA/164223/328008
-#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="MLB",MLB 11: Athletics VS Boston Red Sox (Athletics Feed ) @ 19:10
-http://cord-cutter.net:8080/d7aAvA/164223/328009
-#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="MLB",MLB 12: Athletics VS Boston Red Sox (Boston Red Sox Feed ) @ 19:10
-http://cord-cutter.net:8080/d7aAvA/164223/328010
-#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="MLB",MLB 13: Los Angeles Angels VS Miami Marlins (Miami Marlins Feed ) @ 19:10
-http://cord-cutter.net:8080/d7aAvA/164223/328011
-#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="MLB",MLB 14: Los Angeles Angels VS Miami Marlins (Los Angeles Angels Feed ) @ 19:10
-http://cord-cutter.net:8080/d7aAvA/164223/328012
-#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="MLB",MLB 15: Cleveland Guardians VS Chicago White Sox (Chicago White Sox Feed ) @ 19:40
-http://cord-cutter.net:8080/d7aAvA/164223/328013
-#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="MLB",MLB 16: Cleveland Guardians VS Chicago White Sox (Cleveland Guardians Feed ) @ 19:40
-http://cord-cutter.net:8080/d7aAvA/164223/328014
-#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="MLB",MLB 17: Minnesota Twins VS Milwaukee Brewers (Milwaukee Brewers Feed ) @ 19:40
-http://cord-cutter.net:8080/d7aAvA/164223/328015
-#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="MLB",MLB 18: Minnesota Twins VS Milwaukee Brewers (Minnesota Twins Feed ) @ 19:40
-http://cord-cutter.net:8080/d7aAvA/164223/328016
-#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="MLB",MLB 19: Chicago Cubs VS Kansas City Royals (Chicago Cubs Feed ) @ 20:10
-http://cord-cutter.net:8080/d7aAvA/164223/328017
-#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="MLB",MLB 20: Chicago Cubs VS Kansas City Royals (Kansas City Royals Feed ) @ 20:10
-http://cord-cutter.net:8080/d7aAvA/164223/328018
-#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="MLB",MLB 21: Chicago Cubs VS Kansas City Royals (Kansas City Royals Feed ) @ 20:10
-http://cord-cutter.net:8080/d7aAvA/164223/328019
-#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="MLB",MLB 22: Colorado Rockies VS St. Louis Cardinals (Colorado Rockies Feed ) @ 20:15
-http://cord-cutter.net:8080/d7aAvA/164223/328020
-#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="MLB",MLB 23: Colorado Rockies VS St. Louis Cardinals (St. Louis Cardinals Feed ) @ 20:15
-http://cord-cutter.net:8080/d7aAvA/164223/328021
-#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="MLB",MLB 24: Colorado Rockies VS St. Louis Cardinals (St. Louis Cardinals Feed ) @ 20:15
-http://cord-cutter.net:8080/d7aAvA/164223/328022
-#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="MLB",MLB 25: Los Angeles Dodgers VS Arizona Diamondbacks (Los Angeles Dodgers Feed ) @ 21:40
-http://cord-cutter.net:8080/d7aAvA/164223/328023
-#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="MLB",MLB 26: Los Angeles Dodgers VS Arizona Diamondbacks (Arizona Diamondbacks Feed ) @ 21:40
-http://cord-cutter.net:8080/d7aAvA/164223/328024
+http://cord-cutter.net:8080/d7aAvA/164223/328105
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="MLB",MLB 07: Los Angeles Angels VS Miami Marlins (Los Angeles Angels Feed ) @ 16:10
+http://cord-cutter.net:8080/d7aAvA/164223/328106
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="MLB",MLB 08: Toronto Blue Jays VS Philadelphia Phillies (Philadelphia Phillies Feed ) @ 18:05
+http://cord-cutter.net:8080/d7aAvA/164223/328107
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="MLB",MLB 09: Toronto Blue Jays VS Philadelphia Phillies (Toronto Blue Jays Feed ) @ 18:05
+http://cord-cutter.net:8080/d7aAvA/164223/328108
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="MLB",MLB 10: New York Mets VS Pittsburgh Pirates (New York Mets Feed ) @ 18:40
+http://cord-cutter.net:8080/d7aAvA/164223/328109
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="MLB",MLB 11: New York Mets VS Pittsburgh Pirates (Pittsburgh Pirates Feed ) @ 18:40
+http://cord-cutter.net:8080/d7aAvA/164223/328110
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="MLB",MLB 12: Cincinnati Reds VS Washington Nationals (Cincinnati Reds Feed ) @ 18:45
+http://cord-cutter.net:8080/d7aAvA/164223/328111
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="MLB",MLB 13: Cincinnati Reds VS Washington Nationals (Washington Nationals Feed ) @ 18:45
+http://cord-cutter.net:8080/d7aAvA/164223/328112
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="MLB",MLB 14: Chicago Cubs VS Kansas City Royals (Chicago Cubs Feed ) @ 19:10
+http://cord-cutter.net:8080/d7aAvA/164223/328113
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="MLB",MLB 15: Chicago Cubs VS Kansas City Royals (Kansas City Royals Feed ) @ 19:10
+http://cord-cutter.net:8080/d7aAvA/164223/328114
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="MLB",MLB 16: Minnesota Twins VS Milwaukee Brewers (Milwaukee Brewers Feed ) @ 19:10
+http://cord-cutter.net:8080/d7aAvA/164223/328115
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="MLB",MLB 17: Minnesota Twins VS Milwaukee Brewers (Minnesota Twins Feed ) @ 19:10
+http://cord-cutter.net:8080/d7aAvA/164223/328116
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="MLB",MLB 18: Houston Astros VS San Diego Padres (Houston Astros Feed ) @ 19:15
+http://cord-cutter.net:8080/d7aAvA/164223/328117
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="MLB",MLB 19: Houston Astros VS San Diego Padres (San Diego Padres Feed ) @ 19:15
+http://cord-cutter.net:8080/d7aAvA/164223/328118
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="MLB",MLB 20: Houston Astros VS San Diego Padres (San Diego Padres Feed ) @ 19:15
+http://cord-cutter.net:8080/d7aAvA/164223/328119
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="MLB",MLB 21: Colorado Rockies VS St. Louis Cardinals (Colorado Rockies Feed ) @ 19:15
+http://cord-cutter.net:8080/d7aAvA/164223/328120
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="MLB",MLB 22: Colorado Rockies VS St. Louis Cardinals (St. Louis Cardinals Feed ) @ 19:15
+http://cord-cutter.net:8080/d7aAvA/164223/328121
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="MLB",MLB 23: Los Angeles Dodgers VS Arizona Diamondbacks (Los Angeles Dodgers Feed ) @ 20:10
+http://cord-cutter.net:8080/d7aAvA/164223/328122
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="MLB",MLB 24: Los Angeles Dodgers VS Arizona Diamondbacks (Arizona Diamondbacks Feed ) @ 20:10
+http://cord-cutter.net:8080/d7aAvA/164223/328123
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="MLB",MLB 25: Tampa Bay Rays VS Seattle Mariners (Seattle Mariners Feed ) @ 21:50
+http://cord-cutter.net:8080/d7aAvA/164223/328124
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="MLB",MLB 26: Tampa Bay Rays VS Seattle Mariners (Tampa Bay Rays Feed ) @ 21:50
+http://cord-cutter.net:8080/d7aAvA/164223/328125
 #EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="MLB",USA Real MLB 27: Baltimore Orioles VS Los Angeles Angels (Los Angeles Angels Feed ) @ 21:38
-http://cord-cutter.net:8080/d7aAvA/164223/328025
-#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="MLB",MLB 27: Houston Astros VS San Diego Padres (Houston Astros Feed ) @ 21:40
-http://cord-cutter.net:8080/d7aAvA/164223/328026
-#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="MLB",MLB 28: Houston Astros VS San Diego Padres (San Diego Padres Feed ) @ 21:40
-http://cord-cutter.net:8080/d7aAvA/164223/328027
-#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="MLB",MLB 29: Detroit Tigers VS San Francisco Giants (San Francisco Giants Feed ) @ 22:15
-http://cord-cutter.net:8080/d7aAvA/164223/328028
-#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="MLB",MLB 30: Detroit Tigers VS San Francisco Giants (Detroit Tigers Feed ) @ 22:15
-http://cord-cutter.net:8080/d7aAvA/164223/328029
-#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="MLB",MLB 31: Detroit Tigers VS San Francisco Giants (San Francisco Giants Feed ) @ 22:15
-http://cord-cutter.net:8080/d7aAvA/164223/328030
-#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="MLB",MLB 32: Baltimore Orioles vs Texas Rangers @ 08:05 pm EDT
-http://cord-cutter.net:8080/d7aAvA/164223/328031
-#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="MLB",MLB 33: Tampa Bay Rays vs Seattle Mariners @ 10:10 pm EDT
-http://cord-cutter.net:8080/d7aAvA/164223/328032
+http://cord-cutter.net:8080/d7aAvA/164223/328126
 #EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="24/7 CHANNELS ",24/7 DRUG WARS
 http://cord-cutter.net:8080/d7aAvA/164223/325106
 #EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="24/7 CHANNELS ",24/7 ROBOT CHICKEN
@@ -132167,6 +132163,50 @@ http://cord-cutter.net:8080/d7aAvA/164223/328092
 http://cord-cutter.net:8080/d7aAvA/164223/328093
 #EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="PPV | UFC",US (S) PPV4 - English
 http://cord-cutter.net:8080/d7aAvA/164223/328094
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="PPV | UFC",PPV EVENT 01:UFC FIGHT NIGHT GAMROT V SALKILLD
+http://cord-cutter.net:8080/d7aAvA/164223/328127
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="PPV | UFC",PPV EVENT 02:UFC FIGHT NIGHT GAMROT V SALKILLD Espal
+http://cord-cutter.net:8080/d7aAvA/164223/328128
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="PPV | UFC",PPV EVENT 03:MC KENNA VS OLIHA
+http://cord-cutter.net:8080/d7aAvA/164223/328129
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="PPV | UFC",PPV01: UFC Fight Night: Gamrot vs. Salkilld (Paramount+) @ 05:00 PM EDT
+http://cord-cutter.net:8080/d7aAvA/164223/328130
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="PPV | UFC",PPV02: UFC Fight Night: Gamrot vs. Salkilld (Multi Cam) @ 09:00 PM EDT
+http://cord-cutter.net:8080/d7aAvA/164223/328131
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="PPV | UFC",PPV03: Boxing: Williamson vs. Simpson 2 (DAZN) @ 02:00 PM EDT
+http://cord-cutter.net:8080/d7aAvA/164223/328132
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="PPV | UFC",PPV04: Land of Legends Raceway (dirtvision) @ 06:15 PM EDT
+http://cord-cutter.net:8080/d7aAvA/164223/328133
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="PPV | UFC",PPV05: I-55 Federated Auto Parts Raceway Park (dirtvision) @ 07:00 PM EDT
+http://cord-cutter.net:8080/d7aAvA/164223/328134
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="PPV | UFC",PPV06: Knoxville Raceway (dirtvision) @ 07:00 PM EDT
+http://cord-cutter.net:8080/d7aAvA/164223/328135
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="PPV | UFC",PPV07: Vado Speedway Park 8/8/26 (racindirt) @ 09:00 PM EDT
+http://cord-cutter.net:8080/d7aAvA/164223/328136
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="PPV | UFC",PPV08: USMTS Lucas Oil Speedway 8/8/26 (racindirt) @ 08:00 PM EDT
+http://cord-cutter.net:8080/d7aAvA/164223/328137
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="PPV | UFC",PPV09: All Caribbean Wrestling: Georgetown Smash 2026 (fite tv) @ 06:00 PM EDT
+http://cord-cutter.net:8080/d7aAvA/164223/328138
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="PPV | UFC",PPV10: GoGirl: The Unstoppable Force (fite tv) @ 07:00 PM EDT
+http://cord-cutter.net:8080/d7aAvA/164223/328139
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="PPV | UFC",PPV11: BKFC Fight Night Sturgis 2026: Bryant Acheson vs Mike Jones (fite tv) @ 08:30 PM EDT
+http://cord-cutter.net:8080/d7aAvA/164223/328140
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="PPV | UFC",PPV 01: Nyika vs Masson (8:00am UK | 3:00am ET)
+http://cord-cutter.net:8080/d7aAvA/164223/328141
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="PPV | UFC",PPV 02: Mckenna vs Oliha (4:30pm UK | 11:30am ET)
+http://cord-cutter.net:8080/d7aAvA/164223/328142
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="PPV | UFC",PPV 03: Williamson vs Simpson 2 (4:30pm UK | 11:30am ET)
+http://cord-cutter.net:8080/d7aAvA/164223/328143
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="PPV | UFC",PPV 04: Johnson vs Thorslund (11:30pm UK | 6:30pm ET)
+http://cord-cutter.net:8080/d7aAvA/164223/328144
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="PPV | UFC",PPV 05: UFC Vegas 120: Early Prelims (10:00pm UK | 5:00pm ET)
+http://cord-cutter.net:8080/d7aAvA/164223/328145
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="PPV | UFC",PPV 06: UFC Vegas 120: Prelims (11:30pm UK | 6:30pm ET)
+http://cord-cutter.net:8080/d7aAvA/164223/328146
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="PPV | UFC",PPV 07: UFC Vegas 120: Gamrot vs Salkilld (1:00am UK SUN | 8:00pm ET SAT)
+http://cord-cutter.net:8080/d7aAvA/164223/328147
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="PPV | UFC",PPV 08: BKFC Fight Night: Sturgis (1:30am UK SUN | 8:30pm ET SAT)
+http://cord-cutter.net:8080/d7aAvA/164223/328148
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9w27Lgeq8KVxhz4ysygT6ranxf1.jpg" group-title="All Series",Black Mirror S01 E01
 http://cord-cutter.net:8080/series/d7aAvA/164223/190320.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c62HKSbeTRkatK223O3m58CmmPd.jpg" group-title="All Series",Black Mirror S01 E02
