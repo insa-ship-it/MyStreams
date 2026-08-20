@@ -1,14 +1,14 @@
 {
   "https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8&redirect=true": {
-    "last_checked": 1787214860.1512167,
+    "last_checked": 1787243485.448345,
     "is_active": false
   },
   "https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8": {
-    "last_checked": 1787214860.2143595,
+    "last_checked": 1787243485.5793355,
     "is_active": false
   },
   "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/652e922db4b047000825f975livestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&profilesFromStream=true&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY": {
-    "last_checked": 1787214860.2143674,
+    "last_checked": 1787243485.5793395,
     "is_active": false
   },
   "https://1601580044.rsc.cdn77.org/live/_jcn_/amls:Mariavision/chunklist.m3u8": {
@@ -16,7 +16,7 @@
     "is_active": true
   },
   "https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8": {
-    "last_checked": 1787214859.6945813,
+    "last_checked": 1787243485.4483385,
     "is_active": false
   },
   "https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8": {
@@ -52,15 +52,15 @@
     "is_active": false
   },
   "https://stream.ads.ottera.tv/playlist.m3u8?network_id=5396": {
-    "last_checked": 1787214860.9646802,
+    "last_checked": 1787243485.6703951,
     "is_active": false
   },
   "https://5ca3e84a76d30.streamlock.net/tv43/videotv43/playlist.m3u8": {
-    "last_checked": 1787214860.8157477,
+    "last_checked": 1787243485.6703897,
     "is_active": false
   },
   "https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8": {
-    "last_checked": 1787214861.00066,
+    "last_checked": 1787243485.8206577,
     "is_active": false
   },
   "https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8": {
@@ -100,7 +100,7 @@
     "is_active": false
   },
   "https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8": {
-    "last_checked": 1787214861.050058,
+    "last_checked": 1787243486.3589575,
     "is_active": false
   },
   "http://200.59.188.3:8000/play/a00h": {
@@ -116,7 +116,7 @@
     "is_active": false
   },
   "https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8": {
-    "last_checked": 1787214861.0570111,
+    "last_checked": 1787243486.1101081,
     "is_active": false
   },
   "http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8?PlaylistM3UCL": {
@@ -212,15 +212,15 @@
     "is_active": false
   },
   "https://stream.ads.ottera.tv/playlist.m3u8?network_id=2154": {
-    "last_checked": 1787214862.1043782,
+    "last_checked": 1787243486.9907386,
     "is_active": false
   },
   "https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153": {
-    "last_checked": 1787214862.1043813,
+    "last_checked": 1787243486.9907424,
     "is_active": false
   },
   "https://stream.ads.ottera.tv/playlist.m3u8?network_id=2649": {
-    "last_checked": 1787214862.104384,
+    "last_checked": 1787243486.9907455,
     "is_active": false
   },
   "https://stream.ads.ottera.tv/playlist.m3u8?network_id=2152": {
@@ -228,23 +228,23 @@
     "is_active": false
   },
   "https://stream.ads.ottera.tv/playlist.m3u8?network_id=3528": {
-    "last_checked": 1787214862.104387,
+    "last_checked": 1787243486.9907484,
     "is_active": false
   },
   "https://stream.ads.ottera.tv/playlist.m3u8?network_id=3529": {
-    "last_checked": 1787214862.1043894,
+    "last_checked": 1787243486.990751,
     "is_active": false
   },
   "https://stream.ads.ottera.tv/playlist.m3u8?network_id=3533": {
-    "last_checked": 1787214862.1043916,
+    "last_checked": 1787243486.9907537,
     "is_active": false
   },
   "https://stream.ads.ottera.tv/playlist.m3u8?network_id=2551": {
-    "last_checked": 1787214862.1043942,
+    "last_checked": 1787243486.990756,
     "is_active": false
   },
   "https://stream.ads.ottera.tv/playlist.m3u8?network_id=2550": {
-    "last_checked": 1787214862.104397,
+    "last_checked": 1787243486.990759,
     "is_active": false
   },
   "https://stream.ads.ottera.tv/playlist.m3u8?network_id=653": {
@@ -612,7 +612,7 @@
     "is_active": false
   },
   "https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8": {
-    "last_checked": 1787214862.1497707,
+    "last_checked": 1787243487.1341684,
     "is_active": false
   },
   "https://estrellatv-roku.amagi.tv/playlist.m3u8": {
@@ -644,7 +644,7 @@
     "is_active": true
   },
   "https://cdn.fastocloud.com/leonel.m3u8": {
-    "last_checked": 1787214872.7255125,
+    "last_checked": 1787243495.1607456,
     "is_active": false
   },
   "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8": {
@@ -664,7 +664,7 @@
     "is_active": true
   },
   "https://tv.livestreaminggroup.info:3513/live/canal35live.m3u8": {
-    "last_checked": 1787214869.1988235,
+    "last_checked": 1787243494.1942797,
     "is_active": false
   },
   "https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8": {
@@ -680,7 +680,7 @@
     "is_active": false
   },
   "https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8": {
-    "last_checked": 1787214861.0268338,
+    "last_checked": 1787243485.964994,
     "is_active": false
   },
   "https://azt-mun.otteravision.com/azt/mun/mun.m3u8": {
@@ -712,7 +712,7 @@
     "is_active": false
   },
   "https://59825a54e4454.streamlock.net:8443/papo351/papo351/playlist.m3u8": {
-    "last_checked": 1787214862.7737067,
+    "last_checked": 1787243487.2215672,
     "is_active": false
   },
   "https://live.obslivestream.com/canal8/index.m3u8": {
@@ -760,7 +760,7 @@
     "is_active": true
   },
   "https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/cupertino/G0067_003/playlist.m3u8": {
-    "last_checked": 1787214863.5273364,
+    "last_checked": 1787243487.410224,
     "is_active": false
   },
   "https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/cerritos/G0010_002/playlist.m3u8": {
@@ -804,7 +804,7 @@
     "is_active": false
   },
   "https://samson.streamerr.co:8081/shogun/index.m3u8": {
-    "last_checked": 1787214866.7348554,
+    "last_checked": 1787243490.9193738,
     "is_active": false
   },
   "https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8": {
@@ -900,7 +900,7 @@
     "is_active": true
   },
   "https://server40.servistreaming.com:3477/stream/play.m3u8": {
-    "last_checked": 1787214867.8308685,
+    "last_checked": 1787243491.7882812,
     "is_active": false
   },
   "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8": {
@@ -920,7 +920,7 @@
     "is_active": false
   },
   "https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/oakland/G0219_002/playlist.m3u8": {
-    "last_checked": 1787214865.6197035,
+    "last_checked": 1787243488.163195,
     "is_active": false
   },
   "https://aegis-cloudfront-1.tubi.video/dc8bda97-ce9e-4091-b4e8-11254dea4da6/playlist.m3u8": {
@@ -960,7 +960,7 @@
     "is_active": true
   },
   "https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8": {
-    "last_checked": 1787214868.396854,
+    "last_checked": 1787243491.6195447,
     "is_active": false
   },
   "https://stmv1.srvstm.com/gproducciones/gproducciones/playlist.m3u8": {
@@ -1044,7 +1044,7 @@
     "is_active": true
   },
   "https://tvturf4.janus.cl/playlist/stream.m3u8?d=w&id=": {
-    "last_checked": 1787214866.4873161,
+    "last_checked": 1787243489.0628355,
     "is_active": false
   },
   "https://bozztv.com/uni10rtmp/ssstv2-cdn/smil:ssstv2web.smil/playlist.m3u8": {
@@ -1116,15 +1116,15 @@
     "is_active": true
   },
   "https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8?PlaylistM3UCL": {
-    "last_checked": 1787214867.06126,
+    "last_checked": 1787243489.0628386,
     "is_active": false
   },
   "https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8?PlaylistM3UCL": {
-    "last_checked": 1787214867.061265,
+    "last_checked": 1787243489.0628414,
     "is_active": false
   },
   "https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8?PlaylistM3UCL": {
-    "last_checked": 1787214867.0612688,
+    "last_checked": 1787243489.0628436,
     "is_active": false
   },
   "https://canal10.mediaflix.istream.mx/wza_live/live/movil/playlist.m3u8?PlaylistM3UCL": {
@@ -1132,43 +1132,43 @@
     "is_active": false
   },
   "https://5ca9af4645e15.streamlock.net:443/chiapas/videochiapas/playlist.m3u8?PlaylistM3UCL": {
-    "last_checked": 1787214867.061272,
+    "last_checked": 1787243489.0628462,
     "is_active": false
   },
   "https://5ca3e84a76d30.streamlock.net:443/mexiquense/videomexiquense/playlist.m3u8?PlaylistM3UCL": {
-    "last_checked": 1787214861.0570183,
+    "last_checked": 1787243486.1272027,
     "is_active": false
   },
   "https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8?PlaylistM3UCL": {
-    "last_checked": 1787214867.0612745,
+    "last_checked": 1787243489.0628486,
     "is_active": false
   },
   "https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8?PlaylistM3UCL": {
-    "last_checked": 1787214867.0612776,
+    "last_checked": 1787243489.0628512,
     "is_active": false
   },
   "https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8?PlaylistM3UCL": {
-    "last_checked": 1787214867.0612807,
+    "last_checked": 1787243489.0628533,
     "is_active": false
   },
   "https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?PlaylistM3UCL": {
-    "last_checked": 1787214867.0612833,
+    "last_checked": 1787243489.0628552,
     "is_active": false
   },
   "https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8?PlaylistM3UCL": {
-    "last_checked": 1787214861.0570247,
+    "last_checked": 1787243486.1272058,
     "is_active": false
   },
   "https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/playlist.m3u8?PlaylistM3UCL": {
-    "last_checked": 1787214867.0612862,
+    "last_checked": 1787243489.0628572,
     "is_active": false
   },
   "https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?PlaylistM3UCL": {
-    "last_checked": 1787214867.0612886,
+    "last_checked": 1787243489.0628593,
     "is_active": false
   },
   "https://video1.getstreamhosting.com:1936/8116/8116/playlist.m3u8?PlaylistM3UCL": {
-    "last_checked": 1787214867.0612917,
+    "last_checked": 1787243489.0628617,
     "is_active": false
   },
   "https://vid.mega00.com:5443/LiveApp/streams/928111829917388844551988/928111829917388844551988.m3u8?PlaylistM3UCL": {
@@ -1180,7 +1180,7 @@
     "is_active": false
   },
   "https://5ca3e84a76d30.streamlock.net/tv4/smil:tv4.smil/playlist.m3u8?PlaylistM3UCL": {
-    "last_checked": 1787214867.061294,
+    "last_checked": 1787243489.0628638,
     "is_active": false
   },
   "https://5ca3e84a76d30.streamlock.net:443/gpacifico1/smil:gpculiacan.smil/playlist.m3u8?PlaylistM3UCL": {
@@ -1188,27 +1188,27 @@
     "is_active": false
   },
   "https://5ca3e84a76d30.streamlock.net:443/gpacifico2/smil:mochis.smil/playlist.m3u8?PlaylistM3UCL": {
-    "last_checked": 1787214867.061297,
+    "last_checked": 1787243489.062866,
     "is_active": false
   },
   "https://5ca3e84a76d30.streamlock.net:443/gpacifico4/smil:mazatlan.smil/playlist.m3u8?PlaylistM3UCL": {
-    "last_checked": 1787214867.061299,
+    "last_checked": 1787243489.0628679,
     "is_active": false
   },
   "https://5ca3e84a76d30.streamlock.net:443/gpacifico3/smil:obregon.smil/playlist.m3u8?PlaylistM3UCL": {
-    "last_checked": 1787214867.0613015,
+    "last_checked": 1787243489.0628705,
     "is_active": false
   },
   "https://60417ddeaf0d9.streamlock.net:443/montemorelos/videomontemorelos/playlist.m3u8?PlaylistM3UCL": {
-    "last_checked": 1787214867.061304,
+    "last_checked": 1787243489.0628731,
     "is_active": false
   },
   "https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8?PlaylistM3UCL": {
-    "last_checked": 1787214867.0613067,
+    "last_checked": 1787243489.062875,
     "is_active": false
   },
   "https://5bf8041cb3fed.streamlock.net:443/AlcanceTV/AlcanceTV/playlist.m3u8?PlaylistM3UCL": {
-    "last_checked": 1787214867.0613089,
+    "last_checked": 1787243489.0628772,
     "is_active": false
   },
   "http://51.222.85.85:81/hls/loco/index.m3u8?PlaylistM3UCL": {
@@ -1220,7 +1220,7 @@
     "is_active": true
   },
   "https://stream.ads.ottera.tv/playlist.m3u8?network_id=11014&avod=1&coppa=0&is_lat=0&dnt=0&td=6&us_privacy=1ynn&did=3dafe10496907bcf3d5a3415a3135845&ifa_type=sessionid&app_bundle=com.canela.ott&app_store_url=https%3A%2F%2Fwww.canela.tv%2Fdevices&app_domain=canela.tv&app_name=canelatv&custom_targeting=web&custom_4=internal&player_height=720&player_width=1280&content_channel=canelatv&content_dist_name=internal&device_make=&device_model=&device_os=web&preferred_language=en&consent=1&gdpr=0&custom_12=0&custom_15=es&custom_16=en&custom_17=es&country=mx&country_region=mexico%20city&postal_code=07890&site_page=https%253a%252f%252fwww.canela.tv%252fes%252flinear%252ftelediario-now&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&timestamp=1726015280&id=69276&ip=2806%3A2f0%3Aa2a0%3Afb1d%3A7121%3A79d4%3Ac454%3A16ac&override_expiration=1500&deliveryProfileId=23762&sign=1MztDmTEi0FHwHXT9qSFpZNa08kwr6CgtXl8ZbK0rIs%3D": {
-    "last_checked": 1787214867.0820625,
+    "last_checked": 1787243489.062879,
     "is_active": false
   },
   "https://stmv6.voxtvhd.com.br/xtremaanimal/xtremaanimal/playlist.m3u8": {
@@ -1228,7 +1228,7 @@
     "is_active": true
   },
   "https://channel09-onlymex.akamaized.net/hls/live/2094418/event01/index.m3u8": {
-    "last_checked": 1787214861.0818276,
+    "last_checked": 1787243486.1271987,
     "is_active": false
   },
   "https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8": {
@@ -1300,7 +1300,7 @@
     "is_active": true
   },
   "https://stream.ads.ottera.tv/playlist.m3u8?network_id=5999": {
-    "last_checked": 1787214861.8191104,
+    "last_checked": 1787243486.8663743,
     "is_active": false
   },
   "https://5f1af61612fb5.streamlock.net/tv4/smil:tv4.smil/playlist.m3u8": {
@@ -1312,8 +1312,8 @@
     "is_active": true
   },
   "https://5e50264bd6766.streamlock.net/canal10durango/videocanal10durango/playlist.m3u8": {
-    "last_checked": 1787214875.8462086,
-    "is_active": false
+    "last_checked": 1787243498.5395246,
+    "is_active": true
   },
   "https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8": {
     "last_checked": 1787214867.6078448,
@@ -1324,15 +1324,15 @@
     "is_active": false
   },
   "https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991742": {
-    "last_checked": 1787214867.6509688,
+    "last_checked": 1787243489.062882,
     "is_active": false
   },
   "https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991120": {
-    "last_checked": 1787214867.6509724,
+    "last_checked": 1787243489.0628843,
     "is_active": false
   },
   "https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991118": {
-    "last_checked": 1787214867.6509755,
+    "last_checked": 1787243489.0628867,
     "is_active": false
   },
   "https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8": {
@@ -1432,7 +1432,7 @@
     "is_active": true
   },
   "https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8": {
-    "last_checked": 1787214868.61716,
+    "last_checked": 1787243496.6754777,
     "is_active": false
   },
   "https://is.gd/7PhGkV?5e20b730f2f8d5003d739db7-66628d4a8dfc36b8c8a399c4.m3u8": {
@@ -1440,7 +1440,7 @@
     "is_active": true
   },
   "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevopopau-samsungau/playlist.m3u8": {
-    "last_checked": 1787214871.2075627,
+    "last_checked": 1787243495.6692832,
     "is_active": false
   },
   "https://stitcher.pluto.tv/stitch/hls/channel/623b93628e6ded0007337d4d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=cb5874fc-6948-11ef-b8e3-ea3db3d97a96": {
@@ -1448,7 +1448,7 @@
     "is_active": false
   },
   "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo2kau-samsungau/playlist.m3u8": {
-    "last_checked": 1787214871.2430217,
+    "last_checked": 1787243493.574537,
     "is_active": false
   },
   "https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010": {
@@ -1456,11 +1456,11 @@
     "is_active": false
   },
   "https://stream.ads.ottera.tv/playlist.m3u8?network_id=5106": {
-    "last_checked": 1787214868.3968606,
+    "last_checked": 1787243491.6195495,
     "is_active": false
   },
   "https://stream.ads.ottera.tv/playlist.m3u8?network_id=771": {
-    "last_checked": 1787214868.3968642,
+    "last_checked": 1787243491.619553,
     "is_active": false
   },
   "https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088": {
@@ -1468,11 +1468,11 @@
     "is_active": false
   },
   "https://stream.ads.ottera.tv/playlist.m3u8?network_id=4826": {
-    "last_checked": 1787214868.3968673,
+    "last_checked": 1787243491.6195555,
     "is_active": false
   },
   "https://stream.ads.ottera.tv/playlist.m3u8?network_id=4827": {
-    "last_checked": 1787214868.3968709,
+    "last_checked": 1787243491.6195586,
     "is_active": false
   },
   "https://stream.ads.ottera.tv/playlist.m3u8?network_id=5090": {
@@ -1480,23 +1480,23 @@
     "is_active": false
   },
   "https://stream.ads.ottera.tv/playlist.m3u8?network_id=5504": {
-    "last_checked": 1787214868.3968735,
+    "last_checked": 1787243491.619561,
     "is_active": false
   },
   "https://stream.ads.ottera.tv/playlist.m3u8?network_id=6404": {
-    "last_checked": 1787214868.396876,
+    "last_checked": 1787243491.6195636,
     "is_active": false
   },
   "https://stream.ads.ottera.tv/playlist.m3u8?network_id=6405": {
-    "last_checked": 1787214868.3968785,
+    "last_checked": 1787243491.6195657,
     "is_active": false
   },
   "https://stream.ads.ottera.tv/playlist.m3u8?network_id=6403": {
-    "last_checked": 1787214868.3968809,
+    "last_checked": 1787243491.6195683,
     "is_active": false
   },
   "https://stream.ads.ottera.tv/playlist.m3u8?network_id=11014": {
-    "last_checked": 1787214868.3968832,
+    "last_checked": 1787243491.6195703,
     "is_active": false
   },
   "https://stream.ads.ottera.tv/playlist.m3u8?network_id=4505": {
@@ -1504,11 +1504,11 @@
     "is_active": false
   },
   "https://stream.ads.ottera.tv/playlist.m3u8?network_id=4833": {
-    "last_checked": 1787214868.3968863,
+    "last_checked": 1787243491.6195726,
     "is_active": false
   },
   "https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149": {
-    "last_checked": 1787214868.3968885,
+    "last_checked": 1787243491.6195753,
     "is_active": false
   },
   "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS": {
@@ -1560,35 +1560,35 @@
     "is_active": true
   },
   "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevocountryau-samsungau/playlist.m3u8": {
-    "last_checked": 1787214871.152024,
+    "last_checked": 1787243493.9993951,
     "is_active": false
   },
   "http://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8": {
-    "last_checked": 1787214868.5528903,
+    "last_checked": 1787243491.7999938,
     "is_active": false
   },
   "https://d3bb58xoj568xi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-don7i7nmbho0q/index.m3u8": {
-    "last_checked": 1787214866.9149432,
+    "last_checked": 1787243492.2994497,
     "is_active": false
   },
   "http://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8": {
-    "last_checked": 1787214868.5834692,
+    "last_checked": 1787243491.938559,
     "is_active": false
   },
   "http://mdstrm.com/live-stream-playlist/5d56ed29c92dd106ff01543b.m3u8": {
-    "last_checked": 1787214868.6114612,
+    "last_checked": 1787243491.9447756,
     "is_active": false
   },
   "http://mdstrm.com/live-stream-playlist/5d5d51a4e9a40e25f4a0332c.m3u8": {
-    "last_checked": 1787214868.7175632,
+    "last_checked": 1787243492.0964901,
     "is_active": false
   },
   "http://mdstrm.com/live-stream-playlist/5d9e440d675235586a92be7f.m3u8": {
-    "last_checked": 1787214868.66438,
+    "last_checked": 1787243492.24223,
     "is_active": false
   },
   "http://mdstrm.com/live-stream-playlist/5d4b0fec848918070128c8cb.m3u8": {
-    "last_checked": 1787214868.6375632,
+    "last_checked": 1787243492.0949607,
     "is_active": false
   },
   "https://rds3.desdeparaguay.net/caritastv/caritastv/playlist.m3u8": {
@@ -1628,11 +1628,11 @@
     "is_active": true
   },
   "http://181.78.82.6:46090/play/a00i/index.m3u8": {
-    "last_checked": 1787214861.819105,
+    "last_checked": 1787243486.618405,
     "is_active": false
   },
   "http://181.78.82.6:46090/play/a00v/index.m3u8": {
-    "last_checked": 1787214861.8554773,
+    "last_checked": 1787243486.866369,
     "is_active": false
   },
   "https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8": {
@@ -1648,7 +1648,7 @@
     "is_active": true
   },
   "http://181.78.82.6:46090/play/a00w/index.m3u8": {
-    "last_checked": 1787214861.961682,
+    "last_checked": 1787243487.1245837,
     "is_active": false
   },
   "http://181.78.82.6:46090/play/a00q/index.m3u8": {
@@ -2292,7 +2292,7 @@
     "is_active": true
   },
   "https://s5.mexside.net:1936/medios/medios/playlist.m3u8": {
-    "last_checked": 1787156885.2648158,
+    "last_checked": 1787243492.4586296,
     "is_active": true
   },
   "https://mvtvstream.com:444/live/6456eb2e56ab7/index.m3u8": {
@@ -2308,7 +2308,7 @@
     "is_active": false
   },
   "https://stream.oursnetworktv.com/latin/encoder13/playlist.m3u8": {
-    "last_checked": 1787214873.2368116,
+    "last_checked": 1787243495.744336,
     "is_active": false
   },
   "https://stream.oursnetworktv.com/latin/encoder203/playlist.m3u8": {
@@ -2360,7 +2360,7 @@
     "is_active": false
   },
   "https://rpn3.bozztv.com/ssh101/ssh101/canal30mx/playlist.m3u8": {
-    "last_checked": 1787214870.575688,
+    "last_checked": 1787243494.015669,
     "is_active": false
   },
   "https://5e50264bd6766.streamlock.net/canal44/videocanal44/playlist.m3u8": {
@@ -2412,7 +2412,7 @@
     "is_active": false
   },
   "https://video2.lhdserver.es/despiertatv/live.m3u8": {
-    "last_checked": 1787214871.2161386,
+    "last_checked": 1787243494.8112793,
     "is_active": false
   },
   "https://5ca9af4645e15.streamlock.net/teleradio/smil:teleradio.smil/playlist.m3u8": {
@@ -2428,7 +2428,7 @@
     "is_active": false
   },
   "https://stream.oursnetworktv.com/latin/juarez50/playlist.m3u8": {
-    "last_checked": 1787214873.8392572,
+    "last_checked": 1787243496.9182675,
     "is_active": false
   },
   "https://stream.oursnetworktv.com/latin/cnrtelevision/playlist.m3u8": {
@@ -2448,11 +2448,11 @@
     "is_active": true
   },
   "https://mdstrm.com/live-stream-playlist/5d4b0fec848918070128c8cb.m3u8": {
-    "last_checked": 1787214871.2901928,
+    "last_checked": 1787243494.1708992,
     "is_active": false
   },
   "https://mdstrm.com/live-stream-playlist/5d9e440d675235586a92be7f.m3u8": {
-    "last_checked": 1787214871.316107,
+    "last_checked": 1787243494.3168721,
     "is_active": false
   },
   "https://stream8.mexiserver.com:1936/morelostv/morelostv/playlist.m3u8": {
@@ -2460,19 +2460,19 @@
     "is_active": false
   },
   "https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8": {
-    "last_checked": 1787214871.343275,
+    "last_checked": 1787243494.3654625,
     "is_active": false
   },
   "https://mdstrm.com/live-stream-playlist/5d56ed29c92dd106ff01543b.m3u8": {
-    "last_checked": 1787214871.3933027,
+    "last_checked": 1787243494.5190835,
     "is_active": false
   },
   "https://mdstrm.com/live-stream-playlist/5d5d51a4e9a40e25f4a0332c.m3u8": {
-    "last_checked": 1787214871.3966172,
+    "last_checked": 1787243494.6596825,
     "is_active": false
   },
   "https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8": {
-    "last_checked": 1787214871.3699124,
+    "last_checked": 1787243494.5136924,
     "is_active": false
   },
   "https://linear-414.frequency.stream/mt/studio/414/hls/master/playlist.m3u8": {
@@ -2480,7 +2480,7 @@
     "is_active": false
   },
   "https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8": {
-    "last_checked": 1787214871.4012115,
+    "last_checked": 1787243494.5446072,
     "is_active": false
   },
   "https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8": {
@@ -2552,7 +2552,7 @@
     "is_active": false
   },
   "https://stream.oursnetworktv.com/latin/encoder53/playlist.m3u8": {
-    "last_checked": 1787214875.0571153,
+    "last_checked": 1787243498.1607194,
     "is_active": false
   },
   "https://stream.oursnetworktv.com/latin/encoder48/playlist.m3u8": {
@@ -2580,7 +2580,7 @@
     "is_active": false
   },
   "https://stream.oursnetworktv.com/latin/tvguanajuato/playlist.m3u8": {
-    "last_checked": 1787214875.2937877,
+    "last_checked": 1787243498.503682,
     "is_active": false
   },
   "https://5e50264bd6766.streamlock.net/tabasco/videotabasco/playlist.m3u8": {
@@ -2592,11 +2592,11 @@
     "is_active": true
   },
   "https://stream.oursnetworktv.com/latin/tvindependencia/playlist.m3u8": {
-    "last_checked": 1787214875.2953289,
+    "last_checked": 1787243498.5331254,
     "is_active": false
   },
   "https://stream.oursnetworktv.com/latin/tvlibertad/playlist.m3u8": {
-    "last_checked": 1787214875.29641,
+    "last_checked": 1787243499.0063093,
     "is_active": false
   },
   "https://hls.gvstream.live/telesistemas/15tv.stream/playlist.m3u8": {
@@ -2608,11 +2608,11 @@
     "is_active": true
   },
   "http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8": {
-    "last_checked": 1787214882.5820851,
+    "last_checked": 1787243505.498577,
     "is_active": false
   },
   "https://stream.castr.com/653d77dcde70014f52ad1e19/live_bf24d4208d8611eeb116dbe87aa63be0/rewind-3600.m3u8": {
-    "last_checked": 1787214870.518455,
+    "last_checked": 1787243493.438821,
     "is_active": false
   },
   "https://stream.oursnetworktv.com/latin/sanluistv/playlist.m3u8": {
@@ -2640,7 +2640,7 @@
     "is_active": false
   },
   "https://5caf24a595d94.streamlock.net:1937/stream56/stream56/playlist.m3u8": {
-    "last_checked": 1787214876.7844229,
+    "last_checked": 1787243498.7735748,
     "is_active": false
   },
   "https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8": {
@@ -2676,7 +2676,7 @@
     "is_active": false
   },
   "https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8": {
-    "last_checked": 1787214877.8882756,
+    "last_checked": 1787243499.1666033,
     "is_active": false
   },
   "https://siloh-mcdn.plutotv.net/lilo/production/TelefePluto/master.m3u8": {
@@ -2692,7 +2692,7 @@
     "is_active": false
   },
   "http://streamingcws20.com:1935/tmtv/videotmtv/playlist.m3u8": {
-    "last_checked": 1787214878.321843,
+    "last_checked": 1787243499.2562103,
     "is_active": false
   },
   "https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8": {
@@ -2700,7 +2700,7 @@
     "is_active": false
   },
   "https://aprende-usea.streaming.media.azure.net/9317ea3f-03a0-4266-9292-ac97a0e41c4d/output-20230609-123537-manifest.ism/manifest(format=m3u8-cmaf).m3u8": {
-    "last_checked": 1787214878.8821907,
+    "last_checked": 1787243501.5611212,
     "is_active": false
   },
   "https://5f1af61612fb5.streamlock.net/tv4/tv4.smil/.m3u8": {
@@ -3160,7 +3160,7 @@
     "is_active": true
   },
   "https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8?": {
-    "last_checked": 1787214869.3448653,
+    "last_checked": 1787243492.0964963,
     "is_active": false
   },
   "https://livetv-fa.tubi.video/moviesphere/playlist.m3u8": {
@@ -3168,7 +3168,7 @@
     "is_active": true
   },
   "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-ono/playlist.m3u8?player_height=1080&player_width=1920&min_ad_duration=6&max_ad_duration=120": {
-    "last_checked": 1787214869.3600664,
+    "last_checked": 1787243492.0964994,
     "is_active": false
   },
   "https://linear-254.frequency.stream/mt/studio/254/hls/master/playlist.m3u8": {
@@ -6164,7 +6164,7 @@
     "is_active": true
   },
   "https://nimble.streamblue.mx/france24/stream/playlist.m3u8": {
-    "last_checked": 1787214863.4145827,
+    "last_checked": 1787243488.5829492,
     "is_active": false
   },
   "https://5fc584f3f19c9.streamlock.net/tvunam/videotvunam/chunklist_w372205069_DVR.m3u8": {
@@ -6936,31 +6936,31 @@
     "is_active": true
   },
   "https://stream-207963.castr.net/65313d270e749722b6474684/live_55784330f36711ee97a7a19a8448730c/index.fmp4.m3u8": {
-    "last_checked": 1787214870.1847296,
+    "last_checked": 1787243492.8105006,
     "is_active": false
   },
   "https://stream-207963.castr.net/65313d270e749722b6474684/live_fa0ed380dfbe11eeabd66ba1b9ba93a1/index.fmp4.m3u8": {
-    "last_checked": 1787214870.2006688,
+    "last_checked": 1787243492.910818,
     "is_active": false
   },
   "https://stream-207963.castr.net/65313d270e749722b6474684/live_1c690d40dfb711eeabd66ba1b9ba93a1/index.fmp4.m3u8": {
-    "last_checked": 1787214870.124328,
+    "last_checked": 1787243492.567634,
     "is_active": false
   },
   "https://stream-207963.castr.net/65313d270e749722b6474684/live_38c14fb0dfbd11ee8847c303f3096501/index.fmp4.m3u8": {
-    "last_checked": 1787214870.1526303,
+    "last_checked": 1787243492.6646905,
     "is_active": false
   },
   "https://stream-207963.castr.net/65313d270e749722b6474684/live_19c1e870dfbf11eeadd41749c3286f4a/index.fmp4.m3u8": {
-    "last_checked": 1787214870.3233566,
+    "last_checked": 1787243493.2195368,
     "is_active": false
   },
   "https://stream-207963.castr.net/65313d270e749722b6474684/live_185f5f10888711ee83e2f144889e3879/index.fmp4.m3u8": {
-    "last_checked": 1787214870.348528,
+    "last_checked": 1787243493.3206425,
     "is_active": false
   },
   "https://stream-207963.castr.net/65313d270e749722b6474684/live_0bd65ed0dfbf11ee848c53d8a686e201/index.fmp4.m3u8": {
-    "last_checked": 1787214870.259124,
+    "last_checked": 1787243493.1118262,
     "is_active": false
   },
   "https://stream-207963.castr.net/65313d270e749722b6474684/live_4d3635d0dfbf11eeaae187cc1ffaf09b/index.fmp4.m3u8": {
@@ -6968,11 +6968,11 @@
     "is_active": false
   },
   "https://stream-207963.castr.net/65313d270e749722b6474684/live_0424eb20dfbf11ee821911a0b6ba5091/index.fmp4.m3u8": {
-    "last_checked": 1787214870.2341168,
+    "last_checked": 1787243493.0064228,
     "is_active": false
   },
   "https://stream-207963.castr.net/65313d270e749722b6474684/live_2b589fc0dfbf11ee9ce13534ca2a46c3/index.fmp4.m3u8": {
-    "last_checked": 1787214870.3505063,
+    "last_checked": 1787243493.4238894,
     "is_active": false
   },
   "https://stream8.mexiserver.com:2000/hls/crealatv/crealatv.m3u8": {
@@ -7000,7 +7000,7 @@
     "is_active": true
   },
   "https://tv.radiohosting.online:1936/TV344/TV344/playlist.m3u8": {
-    "last_checked": 1787214871.7435033,
+    "last_checked": 1787243495.1577597,
     "is_active": false
   },
   "https://dnxdy7xlok3gl.cloudfront.net/5031bd7f-769e-4021-9967-019314f4a1f7/manifest.m3u8": {
@@ -7012,7 +7012,7 @@
     "is_active": true
   },
   "https://liveos.bytecazt.com/udgtv/streams/cfprivq23akg00a7ke2g_d306m7q9io6g00fsq3cg_.m3u8": {
-    "last_checked": 1787214873.3464184,
+    "last_checked": 1787243495.8581188,
     "is_active": false
   },
   "https://d162h6qqsk8wvl.cloudfront.net/9dd2f454-148b-43f2-8ad4-17f74d749895/manifest.m3u8": {
@@ -7020,7 +7020,7 @@
     "is_active": false
   },
   "https://video2.getstreamhosting.com:19360/8092/8092.m3u8": {
-    "last_checked": 1787214873.9606614,
+    "last_checked": 1787243496.2879372,
     "is_active": false
   },
   "https://5ca9af4645e15.streamlock.net/montemaria/videomontemaria/playlist.m3u8": {
@@ -7044,16 +7044,16 @@
     "is_active": true
   },
   "https://video0.rogohosting.com:19360/4982/4982.m3u8": {
-    "last_checked": 1787156890.0928829,
-    "is_active": true
+    "last_checked": 1787243499.161083,
+    "is_active": false
   },
   "https://s5.mexside.net:1936/telemax/telemax/playlist.m3u8": {
     "last_checked": 1787214878.2165847,
     "is_active": true
   },
   "https://vid26.mega00.com:5443/live/streams/qNmc7nulmq8zPYZE1582752735050.m3u8": {
-    "last_checked": 1787214878.1748438,
-    "is_active": false
+    "last_checked": 1787243499.5708742,
+    "is_active": true
   },
   "https://fl1.moveonjoy.com/Sony_Movie_Channel/index.m3u8": {
     "last_checked": 1770691283.3300662,
@@ -7084,7 +7084,7 @@
     "is_active": false
   },
   "https://tvenvivo.buap.mx/livestream/stream/index.m3u8": {
-    "last_checked": 1787214878.6163223,
+    "last_checked": 1787243499.356944,
     "is_active": false
   },
   "https://5d0d1d7a6be9e.streamlock.net/sicom/canal2/playlist.m3u8": {
@@ -7100,11 +7100,11 @@
     "is_active": true
   },
   "https://58fe359775f31.streamlock.net/tvuv/myStream/playlist.m3u8": {
-    "last_checked": 1787214878.983773,
-    "is_active": false
+    "last_checked": 1787243499.5504186,
+    "is_active": true
   },
   "https://5ca3e84a76d30.streamlock.net/uacj/videouacj/playlist.m3u8": {
-    "last_checked": 1787214878.914463,
+    "last_checked": 1787243499.449264,
     "is_active": false
   },
   "https://5fc584f3f19c9.streamlock.net/icrtvcolima/smil:icrtvcolima.smil/playlist.m3u8": {
@@ -7128,7 +7128,7 @@
     "is_active": false
   },
   "https://s5.mexside.net:1936/elsonorense/elsonorense/playlist.m3u8": {
-    "last_checked": 1787214880.1544638,
+    "last_checked": 1787243502.004739,
     "is_active": false
   },
   "https://60417ddeaf0d9.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8": {
@@ -7148,11 +7148,11 @@
     "is_active": true
   },
   "http://linkrt.ddns.net:8080/hls/rtmorelia_MID.m3u8": {
-    "last_checked": 1787214878.672276,
+    "last_checked": 1787243501.832923,
     "is_active": false
   },
   "https://omegaingenieria.com:19360/CRisolTVdigital-Live_abr/CRisolTVdigital-Live_abr.m3u8": {
-    "last_checked": 1787214878.5581253,
+    "last_checked": 1787243501.4299307,
     "is_active": false
   },
   "https://5c001c2729b09.streamlock.net:4443/live/_definst_/canal24nrt/playlist.m3u8": {
@@ -7224,11 +7224,11 @@
     "is_active": true
   },
   "https://stream.unison.mx/hls/unisontvatem.m3u8": {
-    "last_checked": 1787214882.8356419,
+    "last_checked": 1787243503.0286777,
     "is_active": false
   },
   "https://ccstreaming.packet.mx/WebRTCAppEE/streams/45.1_kd5oiNTTWO0gEOFc431277834.m3u8": {
-    "last_checked": 1787214886.1853516,
+    "last_checked": 1787243506.742753,
     "is_active": false
   },
   "https://pctv-meganoticias-1-mx.tcl.wurl.tv/playlist.m3u8": {
@@ -15476,11 +15476,11 @@
     "is_active": true
   },
   "https://video.cdmx.gob.mx/redes/stream.m3u8": {
-    "last_checked": 1787214886.3003736,
+    "last_checked": 1787243511.6443167,
     "is_active": false
   },
   "https://streaming.alwaysdata.net/tudn.php": {
-    "last_checked": 1787214878.2165904,
+    "last_checked": 1787243499.205712,
     "is_active": false
   },
   "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-33_480.m3u8": {
@@ -15508,8 +15508,8 @@
     "is_active": false
   },
   "https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8": {
-    "last_checked": 1787214882.8531027,
-    "is_active": false
+    "last_checked": 1787243501.8793564,
+    "is_active": true
   },
   "http://181.119.93.83:8000/play/a1di/index.m3u8": {
     "last_checked": 1786411522.932738,
@@ -15676,11 +15676,11 @@
     "is_active": true
   },
   "http://45.162.193.35/CINELATINO_HD/index.m3u8": {
-    "last_checked": 1787214881.627803,
+    "last_checked": 1787243504.299084,
     "is_active": false
   },
   "http://181.78.14.26:4000/play/a073/index.m3u8": {
-    "last_checked": 1787214879.767009,
+    "last_checked": 1787243502.082368,
     "is_active": false
   },
   "http://138.186.23.7:8082/NICKJR/index.m3u8": {
@@ -15696,7 +15696,7 @@
     "is_active": false
   },
   "https://cablered.iptvperu.tv:1936/cablered/bitme-srt_new/playlist.m3u8": {
-    "last_checked": 1787214876.2789128,
+    "last_checked": 1787243499.205708,
     "is_active": false
   },
   "http://181.119.66.28:8081/AZTECA-DEPORTES-HD/index.m3u8": {
@@ -15712,11 +15712,11 @@
     "is_active": true
   },
   "http://15.204.246.24:8080/MTVHD/index.m3u8": {
-    "last_checked": 1787156889.1791031,
+    "last_checked": 1787243498.2961264,
     "is_active": true
   },
   "http://15.204.246.24:8080/ComedyCentralHD/index.m3u8": {
-    "last_checked": 1787156890.7568874,
+    "last_checked": 1787243501.5663462,
     "is_active": true
   },
   "http://190.61.90.17:40000/play/a0hk/index.m3u8": {
