@@ -1,91 +1,69 @@
-#EXTM3U tvg-updated="2026-08-24T00:34:42+00:00"
-#EXTINF:-1 tvg-logo="https://s7771.cdn.mytvnet.vn/vimages/b4/4c/c3/36/68/86/b4c36-phtv3hd-channel-unkn.png" group-title="HTV" tvg-last-checked="2026-08-24T00:33:53+00:00",HTV3 - Heo TV (Hplus)
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-IL/htv3_heo_tv_hplus_954334b8.m3u8
-#EXTINF:-1 tvg-logo="https://s7771.cdn.mytvnet.vn/vimages/2a/a0/00/07/7b/b1/2a007-phtvkeyhd-channel-unkn.png" group-title="HTV" tvg-last-checked="2026-08-24T00:34:02+00:00",HTV Key
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-IL/htv_key_e9cee434.m3u8
-#EXTINF:-1 tvg-logo="https://media.sonlatv.vn/upload/files/image/Back-TH-1.jpg" group-title="Địa phương" tvg-last-checked="2026-08-24T00:34:03+00:00",STV HD - Báo và Truyền Hình Sơn La
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-IL/stv_hd_bo_v_truyn_hnh_sn_la_a4181c80.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/hanoi2uhd.png" group-title="Địa phương" tvg-last-checked="2026-08-24T00:34:04+00:00",Hà Nội 2 UHD - Đài Hà Nội
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-IL/h_ni_2_uhd_i_h_ni_18df0836.m3u8
-#EXTINF:-1 tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/16/1728293640310/9aea44bf0f8d_640_360.png" group-title="Địa phương" tvg-last-checked="2026-08-24T00:34:05+00:00",NBTV - Báo và Truyền Hình Ninh Bình
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-IL/nbtv_bo_v_truyn_hnh_ninh_bnh_6fbdf6e9.m3u8
-#EXTINF:-1 tvg-logo="https://langsontv.vn/templates/frontend/lstv/Assets/img/video_bg.png" group-title="Địa phương" tvg-last-checked="2026-08-24T00:34:08+00:00",LSTV HD - Báo và Truyền Hình Lạng Sơn
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-IL/lstv_hd_bo_v_truyn_hnh_lng_sn_efb33ed4.m3u8
-#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="Market Open and Close" tvg-last-checked="2026-08-24T00:34:08+00:00",CNBC-Arabiya
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-IL/cnbcarabiya_f6cc5ccd.m3u8
-#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="Market Open and Close" tvg-last-checked="2026-08-24T00:34:09+00:00",CNBC-TV18
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-IL/cnbctv18_24e7f33b.m3u8
-#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="Market Open and Close" tvg-last-checked="2026-08-24T00:34:11+00:00",CNBC-AWAAZ
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-IL/cnbcawaaz_086e385e.m3u8
-#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="Market Open and Close" tvg-last-checked="2026-08-24T00:34:12+00:00",CNBC-BAJAR
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-IL/cnbcbajar_7f18b8cc.m3u8
-#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="Market Open and Close" tvg-last-checked="2026-08-24T00:34:14+00:00",Bloomberg Asia Luve Event
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-IL/bloomberg_asia_luve_event_f0ac1f32.m3u8
-#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="Market Open and Close" tvg-last-checked="2026-08-24T00:34:15+00:00",Bloomberg EMEA Live Event
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-IL/bloomberg_emea_live_event_5762c227.m3u8
-#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="Market Open and Close" tvg-last-checked="2026-08-24T00:34:17+00:00",Bloomberg Mongolia
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-IL/bloomberg_mongolia_0fe875c0.m3u8
-#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="Market Open and Close" tvg-last-checked="2026-08-24T00:34:18+00:00",NDTV Profit
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-IL/ndtv_profit_cb5cdb33.m3u8
-#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="Market Open and Close" tvg-last-checked="2026-08-24T00:34:18+00:00",Yahoo Finance
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-IL/yahoo_finance_55ab3a3f.m3u8
-#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="HÓNG TIN CHIẾN SỰ" tvg-last-checked="2026-08-24T00:34:19+00:00",Reshet 13
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-IL/reshet_13_62c600bb.m3u8
-#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="HÓNG TIN CHIẾN SỰ" tvg-last-checked="2026-08-24T00:34:20+00:00",Ajyal TV
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-IL/ajyal_tv_32905eb2.m3u8
-#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="HÓNG TIN CHIẾN SỰ" tvg-last-checked="2026-08-24T00:34:22+00:00",Ajyal TV (720p)
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-IL/ajyal_tv_720p_6f5e9978.m3u8
-#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="HÓNG TIN CHIẾN SỰ" tvg-last-checked="2026-08-24T00:34:22+00:00",Al Madina (720p)
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-IL/al_madina_720p_15588004.m3u8
-#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="HÓNG TIN CHIẾN SỰ" tvg-last-checked="2026-08-24T00:34:23+00:00",Al Najah News (720p)
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-IL/al_najah_news_720p_76008539.m3u8
-#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="HÓNG TIN CHIẾN SỰ" tvg-last-checked="2026-08-24T00:34:24+00:00",Hebron TV (432p)
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-IL/hebron_tv_432p_77098887.m3u8
-#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="HÓNG TIN CHIẾN SỰ" tvg-last-checked="2026-08-24T00:34:25+00:00",Holy Quran Radio Nablus (720p)
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-IL/holy_quran_radio_nablus_720p_b11f8f89.m3u8
-#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="HÓNG TIN CHIẾN SỰ" tvg-last-checked="2026-08-24T00:34:26+00:00",Palestine Today (480p) [Geo-blocked]
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-IL/palestine_today_480p_geoblocked_9ebd53c4.m3u8
-#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="HÓNG TIN CHIẾN SỰ" tvg-last-checked="2026-08-24T00:34:26+00:00",Rajeen TV (1080p) [Not 24/7]
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-IL/rajeen_tv_1080p_not_247_d32745ba.m3u8
-#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="HÓNG TIN CHIẾN SỰ" tvg-last-checked="2026-08-24T00:34:27+00:00",Shabab FM (720p) [Not 24/7]
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-IL/shabab_fm_720p_not_247_58813af8.m3u8
-#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="HÓNG TIN CHIẾN SỰ" tvg-last-checked="2026-08-24T00:34:28+00:00",Watar TV (720p) [Not 24/7]
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-IL/watar_tv_720p_not_247_15575977.m3u8
-#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="HÓNG TIN CHIẾN SỰ" tvg-last-checked="2026-08-24T00:34:29+00:00",Watar TV (720p) [Not 24/7]
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-IL/watar_tv_720p_not_247_061fe825.m3u8
-#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="HÓNG TIN CHIẾN SỰ" tvg-last-checked="2026-08-24T00:34:29+00:00",Al Mayadeen (576p)
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-IL/al_mayadeen_576p_58c38492.m3u8
-#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="HÓNG TIN CHIẾN SỰ" tvg-last-checked="2026-08-24T00:34:30+00:00",YêmenToday TV
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-IL/ymentoday_tv_270952a4.m3u8
-#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="HÓNG TIN CHIẾN SỰ" tvg-last-checked="2026-08-24T00:34:30+00:00",Al Ekhbariya (1080p)
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-IL/al_ekhbariya_1080p_20b7d5df.m3u8
-#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="HÓNG TIN CHIẾN SỰ" tvg-last-checked="2026-08-24T00:34:31+00:00",Al Arabiya (1080p)
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-IL/al_arabiya_1080p_50955e0b.m3u8
-#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="HÓNG TIN CHIẾN SỰ" tvg-last-checked="2026-08-24T00:34:31+00:00",Al Arabiya Al Hadath (1080p) [Not 24/7]
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-IL/al_arabiya_al_hadath_1080p_not_247_2b33129c.m3u8
-#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="HÓNG TIN CHIẾN SỰ" tvg-last-checked="2026-08-24T00:34:32+00:00",Al Hadath TV (1080p)
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-IL/al_hadath_tv_1080p_383e8538.m3u8
-#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="HÓNG TIN CHIẾN SỰ" tvg-last-checked="2026-08-24T00:34:33+00:00",Asharq News (1080p)
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-IL/asharq_news_1080p_cef22728.m3u8
-#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="HÓNG TIN CHIẾN SỰ" tvg-last-checked="2026-08-24T00:34:34+00:00",Asharq News (1080p)
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-IL/asharq_news_1080p_10ab0f72.m3u8
-#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="HÓNG TIN CHIẾN SỰ" tvg-last-checked="2026-08-24T00:34:34+00:00",Asharq Radio (1080p)
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-IL/asharq_radio_1080p_55df01b0.m3u8
-#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="HÓNG TIN CHIẾN SỰ" tvg-last-checked="2026-08-24T00:34:35+00:00",Sky News Arabia (1080p) [Not 24/7]
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-IL/sky_news_arabia_1080p_not_247_9ac566f0.m3u8
-#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="HÓNG TIN CHIẾN SỰ" tvg-last-checked="2026-08-24T00:34:35+00:00",Sky News Arabia (720p) [Not 24/7]
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-IL/sky_news_arabia_720p_not_247_8e6e831b.m3u8
-#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="HÓNG TIN CHIẾN SỰ" tvg-last-checked="2026-08-24T00:34:35+00:00",Sky News Arabia (Portrait) (1280p) [Not 24/7]
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-IL/sky_news_arabia_portrait_1280p_not_247_1591d565.m3u8
-#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="HÓNG TIN CHIẾN SỰ" tvg-last-checked="2026-08-24T00:34:36+00:00",ЧГТРК Грозный (Xianzhou Luofu Live)
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-IL/xianzhou_luofu_live_1728178e.m3u8
-#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="Uncategorized" tvg-last-checked="2026-08-24T00:34:37+00:00",Falastini TV (1080p)
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-IL/falastini_tv_1080p_c4aa3d25.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/p02AEOF.png" group-title="Uncategorized" tvg-last-checked="2026-08-24T00:34:41+00:00",Korean Central Television / Đài Truyền Hình Trung uơng Triều Tiên (KCTV)
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-IL/korean_central_television_i_truyn_hnh_trung_ung_triu_tin_kctv_55d0d3b5.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5hPxjcl.png" group-title="Truyền hình chích điện siêu phê" tvg-last-checked="2026-08-24T00:34:41+00:00",TVK
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-IL/tvk_8ab88cdc.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FYqvxUM.png" group-title="Truyền hình chích điện siêu phê" tvg-last-checked="2026-08-24T00:34:41+00:00",TVK 2
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-IL/tvk_2_e8301e69.m3u8
-#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="HÓNG TIN CHIẾN SỰ" tvg-last-checked="2026-08-24T00:34:42+00:00",Radio Albalad TV (720p)
+#EXTM3U tvg-updated="2026-08-25T00:33:48+00:00"
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="HÓNG TIN CHIẾN SỰ" tvg-last-checked="2026-08-25T00:33:01+00:00",Radio Albalad TV (720p)
 https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-IL/radio_albalad_tv_720p_2d11eaef.m3u8
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/a0/07/73/39/9e/e6/a0739-phtv2hd-channel-unkn.png" group-title="HTV" tvg-last-checked="2026-08-25T00:33:08+00:00",HTV2 - Vie Channel
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-IL/htv2_vie_channel_81789470.m3u8
+#EXTINF:-1 tvg-logo="https://s7771.cdn.mytvnet.vn/vimages/2a/a0/00/07/7b/b1/2a007-phtvkeyhd-channel-unkn.png" group-title="HTV" tvg-last-checked="2026-08-25T00:33:16+00:00",HTV Key
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-IL/htv_key_e9cee434.m3u8
+#EXTINF:-1 tvg-logo="https://media.sonlatv.vn/upload/files/image/Back-TH-1.jpg" group-title="Địa phương" tvg-last-checked="2026-08-25T00:33:17+00:00",STV HD - Báo và Truyền Hình Sơn La
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-IL/stv_hd_bo_v_truyn_hnh_sn_la_a4181c80.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/hanoi2uhd.png" group-title="Địa phương" tvg-last-checked="2026-08-25T00:33:19+00:00",Hà Nội 2 UHD - Đài Hà Nội
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-IL/h_ni_2_uhd_i_h_ni_18df0836.m3u8
+#EXTINF:-1 tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/16/1728293640310/9aea44bf0f8d_640_360.png" group-title="Địa phương" tvg-last-checked="2026-08-25T00:33:19+00:00",NBTV - Báo và Truyền Hình Ninh Bình
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-IL/nbtv_bo_v_truyn_hnh_ninh_bnh_6fbdf6e9.m3u8
+#EXTINF:-1 tvg-logo="https://langsontv.vn/templates/frontend/lstv/Assets/img/video_bg.png" group-title="Địa phương" tvg-last-checked="2026-08-25T00:33:22+00:00",LSTV HD - Báo và Truyền Hình Lạng Sơn
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-IL/lstv_hd_bo_v_truyn_hnh_lng_sn_efb33ed4.m3u8
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="Market Open and Close" tvg-last-checked="2026-08-25T00:33:23+00:00",CNBC-Arabiya
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-IL/cnbcarabiya_f6cc5ccd.m3u8
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="Market Open and Close" tvg-last-checked="2026-08-25T00:33:24+00:00",Bloomberg Asia Luve Event
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-IL/bloomberg_asia_luve_event_f0ac1f32.m3u8
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="Market Open and Close" tvg-last-checked="2026-08-25T00:33:25+00:00",Bloomberg EMEA Live Event
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-IL/bloomberg_emea_live_event_5762c227.m3u8
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="Market Open and Close" tvg-last-checked="2026-08-25T00:33:27+00:00",CNBC-AWAAZ
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-IL/cnbcawaaz_086e385e.m3u8
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="Market Open and Close" tvg-last-checked="2026-08-25T00:33:28+00:00",CNBC-TV18
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-IL/cnbctv18_24e7f33b.m3u8
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="Market Open and Close" tvg-last-checked="2026-08-25T00:33:28+00:00",CNBC-BAJAR
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-IL/cnbcbajar_7f18b8cc.m3u8
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="Market Open and Close" tvg-last-checked="2026-08-25T00:33:29+00:00",Yahoo Finance
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-IL/yahoo_finance_55ab3a3f.m3u8
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="Market Open and Close" tvg-last-checked="2026-08-25T00:33:29+00:00",NDTV Profit
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-IL/ndtv_profit_cb5cdb33.m3u8
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="Market Open and Close" tvg-last-checked="2026-08-25T00:33:31+00:00",Bloomberg Mongolia
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-IL/bloomberg_mongolia_0fe875c0.m3u8
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="HÓNG TIN CHIẾN SỰ" tvg-last-checked="2026-08-25T00:33:32+00:00",Reshet 13
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-IL/reshet_13_62c600bb.m3u8
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="HÓNG TIN CHIẾN SỰ" tvg-last-checked="2026-08-25T00:33:34+00:00",Ajyal TV
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-IL/ajyal_tv_32905eb2.m3u8
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="HÓNG TIN CHIẾN SỰ" tvg-last-checked="2026-08-25T00:33:36+00:00",Ajyal TV (720p)
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-IL/ajyal_tv_720p_6f5e9978.m3u8
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="HÓNG TIN CHIẾN SỰ" tvg-last-checked="2026-08-25T00:33:37+00:00",Al Madina (720p)
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-IL/al_madina_720p_15588004.m3u8
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="HÓNG TIN CHIẾN SỰ" tvg-last-checked="2026-08-25T00:33:37+00:00",Al Najah News (720p)
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-IL/al_najah_news_720p_76008539.m3u8
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="HÓNG TIN CHIẾN SỰ" tvg-last-checked="2026-08-25T00:33:38+00:00",Holy Quran Radio Nablus (720p)
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-IL/holy_quran_radio_nablus_720p_b11f8f89.m3u8
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="HÓNG TIN CHIẾN SỰ" tvg-last-checked="2026-08-25T00:33:39+00:00",Hebron TV (432p)
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-IL/hebron_tv_432p_77098887.m3u8
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="HÓNG TIN CHIẾN SỰ" tvg-last-checked="2026-08-25T00:33:40+00:00",Palestine Today (480p) [Geo-blocked]
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-IL/palestine_today_480p_geoblocked_9ebd53c4.m3u8
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="HÓNG TIN CHIẾN SỰ" tvg-last-checked="2026-08-25T00:33:41+00:00",Rajeen TV (1080p) [Not 24/7]
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-IL/rajeen_tv_1080p_not_247_d32745ba.m3u8
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="HÓNG TIN CHIẾN SỰ" tvg-last-checked="2026-08-25T00:33:42+00:00",Shabab FM (720p) [Not 24/7]
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-IL/shabab_fm_720p_not_247_58813af8.m3u8
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="HÓNG TIN CHIẾN SỰ" tvg-last-checked="2026-08-25T00:33:43+00:00",Watar TV (720p) [Not 24/7]
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-IL/watar_tv_720p_not_247_15575977.m3u8
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="HÓNG TIN CHIẾN SỰ" tvg-last-checked="2026-08-25T00:33:44+00:00",Watar TV (720p) [Not 24/7]
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-IL/watar_tv_720p_not_247_061fe825.m3u8
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="HÓNG TIN CHIẾN SỰ" tvg-last-checked="2026-08-25T00:33:44+00:00",Al Mayadeen (576p)
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-IL/al_mayadeen_576p_58c38492.m3u8
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="HÓNG TIN CHIẾN SỰ" tvg-last-checked="2026-08-25T00:33:45+00:00",Al Ekhbariya (1080p)
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-IL/al_ekhbariya_1080p_20b7d5df.m3u8
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="HÓNG TIN CHIẾN SỰ" tvg-last-checked="2026-08-25T00:33:46+00:00",YêmenToday TV
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-IL/ymentoday_tv_270952a4.m3u8
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="HÓNG TIN CHIẾN SỰ" tvg-last-checked="2026-08-25T00:33:47+00:00",Al Hadath TV (1080p)
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-IL/al_hadath_tv_1080p_383e8538.m3u8
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="HÓNG TIN CHIẾN SỰ" tvg-last-checked="2026-08-25T00:33:47+00:00",Al Arabiya Al Hadath (1080p) [Not 24/7]
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-IL/al_arabiya_al_hadath_1080p_not_247_2b33129c.m3u8
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="HÓNG TIN CHIẾN SỰ" tvg-last-checked="2026-08-25T00:33:48+00:00",Al Arabiya (1080p)
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-IL/al_arabiya_1080p_50955e0b.m3u8
