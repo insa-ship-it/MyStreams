@@ -3,12 +3,12 @@
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000,RESOLUTION=Original
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg02159-kcglobalmediasi-kcm-asia-hls-sooka-sooka/playlist.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5060000,RESOLUTION=1920x1080
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg02159-kcglobalmediasi-kcm-asia-hls-sooka-sooka/b9ebdce4-9170-4ab5-88aa-159e16f7a555/0.m3u8
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg02159-kcglobalmediasi-kcm-asia-hls-sooka-sooka/f7aba63b-eec2-402f-a356-377984bbcb3d/0.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3000800,RESOLUTION=1280x720
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg02159-kcglobalmediasi-kcm-asia-hls-sooka-sooka/b9ebdce4-9170-4ab5-88aa-159e16f7a555/1.m3u8
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg02159-kcglobalmediasi-kcm-asia-hls-sooka-sooka/f7aba63b-eec2-402f-a356-377984bbcb3d/1.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1513600,RESOLUTION=848x480
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg02159-kcglobalmediasi-kcm-asia-hls-sooka-sooka/b9ebdce4-9170-4ab5-88aa-159e16f7a555/2.m3u8
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg02159-kcglobalmediasi-kcm-asia-hls-sooka-sooka/f7aba63b-eec2-402f-a356-377984bbcb3d/2.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=871200,RESOLUTION=640x360
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg02159-kcglobalmediasi-kcm-asia-hls-sooka-sooka/b9ebdce4-9170-4ab5-88aa-159e16f7a555/3.m3u8
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg02159-kcglobalmediasi-kcm-asia-hls-sooka-sooka/f7aba63b-eec2-402f-a356-377984bbcb3d/3.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=470800,RESOLUTION=426x240
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg02159-kcglobalmediasi-kcm-asia-hls-sooka-sooka/b9ebdce4-9170-4ab5-88aa-159e16f7a555/4.m3u8
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg02159-kcglobalmediasi-kcm-asia-hls-sooka-sooka/f7aba63b-eec2-402f-a356-377984bbcb3d/4.m3u8

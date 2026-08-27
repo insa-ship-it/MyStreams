@@ -3,10 +3,10 @@
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000,RESOLUTION=Original
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotv-hls-sooka/playlist.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1057680,RESOLUTION=640x360
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotv-hls-sooka/663e614a-5d9a-498c-92ec-b73e23a86188/0.m3u8
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotv-hls-sooka/ec89481c-e02f-4c8d-92a5-7e164f20ead5/0.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1686360,RESOLUTION=848x480
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotv-hls-sooka/663e614a-5d9a-498c-92ec-b73e23a86188/1.m3u8
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotv-hls-sooka/ec89481c-e02f-4c8d-92a5-7e164f20ead5/1.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3329040,RESOLUTION=1280x720
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotv-hls-sooka/663e614a-5d9a-498c-92ec-b73e23a86188/2.m3u8
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotv-hls-sooka/ec89481c-e02f-4c8d-92a5-7e164f20ead5/2.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=6046040,RESOLUTION=1920x1080
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotv-hls-sooka/663e614a-5d9a-498c-92ec-b73e23a86188/3.m3u8
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotv-hls-sooka/ec89481c-e02f-4c8d-92a5-7e164f20ead5/3.m3u8
