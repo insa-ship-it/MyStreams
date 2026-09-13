@@ -92,7 +92,7 @@
   {
     "name": "TVI Internacional 🇵🇹",
     "type": "Portugal 🇵🇹",
-    "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMi8yMDI2IDM6NDA6NDYgUE0maGFzaF92YWx1ZT1pcllCMTk4ZWhjSmJjVHhMalA2ZUN3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ODBjMjgzZTctNzMzNS00NmVkLTgwNTEtZTJhMTdjNGM5NDQw/",
+    "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMi8yMDI2IDEwOjI1OjU3IFBNJmhhc2hfdmFsdWU9dkNKU01WU0ZmNmNsVTdOdDVtZERjdz09JnZhbGlkbWludXRlcz0xNDQwJmlkPWMzNWVhNDIxLTk5MDgtNGZjOC1iZGQyLTg3OTdlZGE5ZTlmOA==/",
     "img": "https://logo.m3uassets.com/tviinternacional.png"
   },
   {
@@ -104,7 +104,7 @@
   {
     "name": "TVI 🇵🇹",
     "type": "Portugal 🇵🇹",
-    "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMi8yMDI2IDM6NDA6NDUgUE0maGFzaF92YWx1ZT1jbXRJVGhMRjNqaDU1aVk4Tm54amN3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9YzdlNzljZGItMTIwNC00MmRmLWI0MzAtYWFlZTA2ZjNiMmMy/",
+    "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMi8yMDI2IDEwOjI1OjU2IFBNJmhhc2hfdmFsdWU9ZlVjSENiQnpRSllzQ1JCL3NIaUJUZz09JnZhbGlkbWludXRlcz0xNDQwJmlkPWNkMDJiM2M4LTBkYTMtNGE1Ni1hZGQyLTcyNTI3MTU4YjE5Ng==/",
     "img": "https://github.com/iprtl/p1/raw/master/logo/tvi.webp"
   },
   {
@@ -248,7 +248,7 @@
   {
     "name": "CNN Portugal 🇵🇹",
     "type": "News 🇵🇹🇧🇷",
-    "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMi8yMDI2IDM6NDA6NDUgUE0maGFzaF92YWx1ZT02d1J4d0Z6ZUVTV3JnOGZUQW41blN3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9Y2RmNTVhNzQtMWM1OC00ZTVhLWIxMjAtODgwYTg0YTIzNzAy/",
+    "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMi8yMDI2IDEwOjI1OjU3IFBNJmhhc2hfdmFsdWU9bGFSQi9Mc3MrUmIxSDBXaFlOcyt6QT09JnZhbGlkbWludXRlcz0xNDQwJmlkPThlY2I5YzU2LTNkNzAtNGVkNi05OGZjLTY0ZTc4ZmY3ZjA2Yw==/",
     "img": "https://github.com/iprtl/p1/raw/master/logo/cnnpt.png"
   },
   {
@@ -2958,6 +2958,12 @@
     "img": "https://i.postimg.cc/63D86yTn/ag-tv.jpg"
   },
   {
+    "name": "BDC TV",
+    "type": "Recomendados",
+    "url": "https://video01.brascast.com/bdctv/bdctv/playlist.m3u8",
+    "img": "https://i.postimg.cc/D0Wwhpkn/bdc-tv.jpg"
+  },
+  {
     "name": "BS TV Online",
     "type": "Recomendados",
     "url": "https://video05.logicahost.com.br/gbsstudio/gbsstudio/playlist.m3u8",
@@ -3280,6 +3286,12 @@
     "type": "Variedades",
     "url": "https://5b01a3d32b65c.streamlock.net:1936/tvalpha/tvalpha/playlist.m3u8",
     "img": "https://i.imgur.com/c1QqslA.png"
+  },
+  {
+    "name": "Amazon Sat",
+    "type": "Variedades",
+    "url": "https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8",
+    "img": "https://i.imgur.com/7rjCS5i.png"
   },
   {
     "name": "Araruna TV",
@@ -4390,6 +4402,12 @@
     "type": "Notícia",
     "url": "https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/21fdb6dd7491406bba86497a24390a25/playlist.m3u8",
     "img": "https://i.ibb.co/yTZgcyQ/timesbr.jpg"
+  },
+  {
+    "name": "TV A Folha",
+    "type": "Notícia",
+    "url": "https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8",
+    "img": "https://i.imgur.com/I7XGMhj.png"
   },
   {
     "name": "TV Brusque",
@@ -6284,7 +6302,7 @@
   {
     "name": "Eurochannel [FHD]",
     "type": "Canais de TV",
-    "url": "https://frostviewrelease.squareweb.app/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMDQ5MTMubTN1OA.m3u8",
+    "url": "https://frostviewrelease.squareweb.app/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMDQ5MTAubTN1OA.m3u8",
     "img": "http://gstaticontent.com/images/e319732e23a51cafb209d07c7a26c615.jpg"
   },
   {
@@ -6764,7 +6782,7 @@
   {
     "name": "Globo SP [FHD]",
     "type": "Canais de TV",
-    "url": "https://frostviewrelease.squareweb.app/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzEyMTUubTN1OA.m3u8",
+    "url": "https://frostviewrelease.squareweb.app/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjA0MC5tM3U4.m3u8",
     "img": "https://logos.imperioapps.top/globo.png"
   },
   {
@@ -8984,7 +9002,7 @@
   {
     "name": "Todo Mundo Odeia o Chris",
     "type": "Canais de TV",
-    "url": "https://frostviewrelease.squareweb.app/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzU0NjkubTN1OA.m3u8",
+    "url": "https://frostviewrelease.squareweb.app/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzU0NzIubTN1OA.m3u8",
     "img": "http://24horas.cc:80/images/f2ef4ead91aa3054bb879a3a0814bbc8.jpg"
   },
   {
